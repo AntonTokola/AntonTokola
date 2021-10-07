@@ -15,7 +15,9 @@ Strengths:
 - Ten years of work experience in civil engineering
 
 💞️ Feel free to contact if you need junior programmer or 3D-modeler: ✨✨✨
+
 📫 Mail: anttu_21@hotmail.com
+
 Phone: +358440210715
 
 
