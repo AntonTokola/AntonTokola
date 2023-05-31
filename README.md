@@ -31,5 +31,7 @@ The programs were used (Unity, 3DS Max)
 
 👀 My music projects:
 https://open.spotify.com/artist/0iRIKBMI7fTeqFwfdlqpTh
+
 https://open.spotify.com/artist/6PQnUTlT98F722yMvW6l4m
+
 https://open.spotify.com/artist/1e0xQlGTW5M0PLwkMYK6bI
