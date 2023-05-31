@@ -1,16 +1,17 @@
 👋 Hi, I’m @AntonTokola
 
-I am a data processing specialist (BBA), and working as consultating in Forcit Consulting Oy. 
-I graduated from University of Applied Sciences LAB in 2020.
+I am an IT Specialist and I work as a hardware/software technical expert at Forcit Consulting Oy.
+I graduated from the University of Applied Sciences' LAB in 2020, and am currently looking for my first programming junior job.
 
 Strengths:
 
+- Programming (Junior skills) C#, .NET, PowerShell 
 - Basic ICT and development skills
 - 3D-modeling/design (Autodesk 3DS Max, SolidWorks, OnShape, AutoCad)
 - Virtual Reality (Windows Mixed Reality) with Unity
-- Programming - C#, PowerShell (Junior skills)
+
 - Multimedia: video and sound editing, animations (Adobe Creative Suite: After Effects, Audition, Premiere)
-- Music Producing - FL Studio + third party plugins (Senior skills)
+- Music Producing (nearly 20-years experience) - FL Studio + third party plugins 
 - Show lighting and visualization technology - DMX/VJ (DasLight, Resolume Arena)
 - Ten years of work experience in civil engineering
 
@@ -29,6 +30,6 @@ Images: https://1drv.ms/u/s!AiSfXDpbllBIk2NkrTTTNZ8DaT_4?e=fdyQPN
 The programs were used (Unity, 3DS Max)
 
 👀 My music projects:
+https://open.spotify.com/artist/0iRIKBMI7fTeqFwfdlqpTh
 https://open.spotify.com/artist/6PQnUTlT98F722yMvW6l4m
-https://open.spotify.com/artist/2QcfKimsx6wfoOJe4doymO
-
+https://open.spotify.com/artist/1e0xQlGTW5M0PLwkMYK6bI
