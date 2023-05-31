@@ -25,12 +25,9 @@ Phone: +358440210715
 🌱 Some of my reference projects:
 
 3D-modeling/virtual reality reference project (2020):
-
 Project video (with VR-glasses): https://www.youtube.com/watch?v=H1W4nByePwM
-
 Images: https://1drv.ms/u/s!AiSfXDpbllBIk2NkrTTTNZ8DaT_4?e=fdyQPN
-
-The programs were used (Unity, 3DS Max)
+(made with Unity and 3DS Max)
 
 👀 My music projects:
 
