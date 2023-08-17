@@ -1,17 +1,21 @@
 👋 Hi, I’m @AntonTokola
 
 I am an IT Specialist and I work as a hardware/software technical expert at Forcit Consulting Oy.  
-I graduated from the University of Applied Sciences' LAB in 2020, and am currently looking for my first programming junior job.
+I graduated from the University of Applied Sciences LAB in 2020, and am currently looking for my first  junior developer job.
 
 Strengths:
 
-- Programming (Junior skills) C#, .NET, PowerShell  
-- Basic ICT and development skills  
+- Programming: C#, .NET (ASP.NET MVC, Entity Framework, JWT, LINQ)
+- RESTful API
+- MS SQL
+- Git
+- Jira
+- PowerShell  
 - 3D-modeling/design (Autodesk 3DS Max, SolidWorks, OnShape, AutoCad)  
 - Virtual Reality (Windows Mixed Reality) with Unity  
 
-- Multimedia: video and sound editing, animations (Adobe Creative Suite: After Effects, Audition, Premiere)  
-- Music Producing (nearly 20-years experience) - FL Studio + third party plugins  
+- Multimedia: Adobe Creative Suite: After Effects, Audition, Premiere
+- Music Producing (over 10-years experience) - FL Studio + third party plugins  
 - Show lighting and visualization technology - DMX/VJ (DasLight, Resolume Arena)  
 - Ten years of work experience in civil engineering  
 
