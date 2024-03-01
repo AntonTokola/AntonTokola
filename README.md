@@ -3,14 +3,16 @@
 I am an IT Specialist and I work as a hardware/software technical expert at Forcit Consulting Oy.  
 I graduated from the University of Applied Sciences LAB in 2020, and am currently looking for my first  junior developer job.
 
-Strengths:
+Technologies:
 
-- Programming: C#, .NET (ASP.NET MVC, Entity Framework, JWT, LINQ)
+- C#, .NET (ASP.NET MVC, Entity Framework, JWT, LINQ, OIDC)
 - RESTful API
-- MS SQL
+- MS SQL, MongoDB
+- Azure (deployment, CI/CD-pipeline) + Azure DevOps Services (OCR, KeyVault)
 - Git
 - Jira
-- PowerShell  
+- JS/React (basics)
+- PowerShell
 - 3D-modeling/design (Autodesk 3DS Max, SolidWorks, OnShape, AutoCad)  
 - Virtual Reality (Windows Mixed Reality) with Unity  
 
