@@ -7,13 +7,14 @@ Technologies:
 
 - C#, .NET (ASP.NET MVC, Entity Framework, JWT, LINQ, OIDC)
 - RESTful API
-- MS SQL, MongoDB
-- Azure (deployment, CI/CD-pipeline) + Azure DevOps Services (OCR, KeyVault)
+- MS SQL, MongoDB, Azure Cosmos DB
+- Azure (Web Apps, Functions, SQL, Cosmos DB, Blob Storage, Key Vault, CI/CD pipelines)
+- Azure DevOps Services
 - Git
 - Jira
 - JS/React (basics)
 - PowerShell
-- 3D-modeling/design (Autodesk 3DS Max, SolidWorks, OnShape, AutoCad)  
+- 3D-modeling/design (Autodesk 3DS Max, SolidWorks, OnShape, AutoCad)
 - Virtual Reality (Windows Mixed Reality) with Unity  
 
 - Multimedia: Adobe Creative Suite: After Effects, Audition, Premiere
