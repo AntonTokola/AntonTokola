@@ -20,9 +20,8 @@ Technologies:
 - Multimedia: Adobe Creative Suite: After Effects, Audition, Premiere
 - Music Producing (over 10-years experience) - FL Studio + third party plugins  
 - Show lighting and visualization technology - DMX/VJ (DasLight, Resolume Arena)  
-- Ten years of work experience in civil engineering  
 
-💞️ Feel free to contact if you need junior programmer or 3D-modeler: ✨✨✨
+💞️ Feel free to contact if you need a software developer or 3D-modeler: ✨✨✨
 
 📫 Mail: anttu_21@hotmail.com  
 Phone: +358440210715
