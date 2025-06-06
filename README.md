@@ -1,58 +1,81 @@
-👋 Hi, I’m @AntonTokola
-I'm a dedicated self-taught backend developer from Finland with a strong focus on Microsoft technologies, especially C# and .NET. 
-In my current role at Forcit Consulting Oy, I've independently developed several internal tools that have improved daily operations, despite not working officially as a developer.
-I'm passionate about building practical solutions and continuously expanding my skills. My main interests lie in backend development, cloud services (Azure), and fullstack projects using .NET and React.
+# 👋 Hi, I’m @AntonTokola
 
-🧠 Constantly learning, especially in the areas of .NET backend development, JavaScript/React frontend, and Azure-based deployments.
+I'm a **dedicated self-taught backend developer** from Finland with a strong focus on **Microsoft technologies**, especially **C# and .NET**.  
+In my current role at **Forcit Consulting Oy**, I've independently developed several internal tools that have improved daily operations — despite not working officially as a developer.  
 
-🎓 Graduated in 2020 as a Bachelor of Business Administration in Information Technology from LAB University of Applied Sciences.
+I'm passionate about building practical solutions and continuously expanding my skills. My main interests lie in **backend development**, **cloud services (Azure)**, and **fullstack projects** using **.NET and React**.
 
+---
 
-💻 Tech Stack & Skills
-Backend:
-- C# / .NET (ASP.NET Core, Entity Framework Core, LINQ, JWT, OIDC)
-- RESTful APIs
-- Azure Functions & Web Apps
-- SQL Server, Azure SQL, Azure Cosmos DB
+### 🧠 _**Constantly Learning**_
 
-Frontend:
-- React.js (Next.js, TailwindCSS, TypeScript)
-- Component-based architecture
-- Auth (JWT, email login systems)
+Focused especially on:  
+- .NET backend development  
+- JavaScript/React frontend  
+- Azure-based deployments  
 
-DevOps & Cloud:
-- Azure DevOps Pipelines
-- Azure Blob Storage, Key Vault, CI/CD, App Service
-- Docker (Node.js / .NET containers)
-- Git, GitHub
+---
 
-Tools & Platforms:
-- Visual Studio / VS Code
-- PowerShell
-- Jira
-- Postman / Swagger
+### 🎓 _**Education**_
 
-Other Skills and Hobbies:
-- 3D-modelling (3DS Max, SolidWorks, OnShape, AutoCAD)
-- Unity + Windows Mixed Reality (VR)
-- Multimedia: Adobe Suite (After Effects, Premiere, Audition)
-- Music Production: FL Studio (released tracks via labels, supported by international DJs)
-- Show Lighting & Visuals (DasLight, Resolume Arena)
+**Bachelor of Business Administration in Information Technology**  
+LAB University of Applied Sciences, graduated in 2020  
 
-**📫 Contact**  
-✉️ Email: anttu_21@hotmail.com  
-📱 Phone: +358 44 0210715  
-🌐 Website: https://twinstack.fi  
+---
 
+### 💻 _**Tech Stack & Skills**_
 
-🌱 Reference projects:
-3D-modeling/virtual reality reference project /bachelor’s thesis project (2020) – LAB University of Applied Sciences:  
-Project video (with VR-glasses): https://www.youtube.com/watch?v=H1W4nByePwM  
-Images: https://1drv.ms/u/s!AiSfXDpbllBIk2NkrTTTNZ8DaT_4?e=fdyQPN  
-(made with Unity and 3DS Max)
+**🧩 Backend**  
+- C# / .NET (ASP.NET Core, Entity Framework Core, LINQ, JWT, OIDC)  
+- RESTful APIs  
+- Azure Functions & Web Apps  
+- SQL Server, Azure SQL, Azure Cosmos DB  
 
-👀 Music projects:
+**🎨 Frontend**  
+- React.js (Next.js, TailwindCSS, TypeScript)  
+- Component-based architecture  
+- Auth (JWT, email login systems)  
 
-https://open.spotify.com/artist/0iRIKBMI7fTeqFwfdlqpTh  
-https://open.spotify.com/artist/6PQnUTlT98F722yMvW6l4m  
-https://open.spotify.com/artist/1e0xQlGTW5M0PLwkMYK6bI
+**☁️ DevOps & Cloud**  
+- Azure DevOps Pipelines  
+- Azure Blob Storage, Key Vault, CI/CD, App Service  
+- Docker (Node.js / .NET containers)  
+- Git, GitHub  
+
+**🛠️ Tools & Platforms**  
+- Visual Studio / VS Code  
+- PowerShell  
+- Jira  
+- Postman / Swagger  
+
+**🎯 Other Skills & Hobbies**  
+- 3D-modelling (3DS Max, SolidWorks, OnShape, AutoCAD)  
+- Unity + Windows Mixed Reality (VR)  
+- Multimedia: Adobe Suite (After Effects, Premiere, Audition)  
+- Music Production: FL Studio (tracks released via labels, supported by international DJs)  
+- Show Lighting & Visuals (DasLight, Resolume Arena)  
+
+---
+
+### 📫 _**Contact**_
+
+✉️ **Email:** anttu_21@hotmail.com  
+📱 **Phone:** +358 44 0210715  
+🌐 **Website:** [twinstack.fi](https://twinstack.fi)  
+
+---
+
+### 🌱 _**Reference Projects**_
+
+**3D-modeling / Virtual Reality bachelor’s thesis project (2020)** – LAB University of Applied Sciences  
+📹 Project video (VR view): [YouTube](https://www.youtube.com/watch?v=H1W4nByePwM)  
+🖼️ Images: [OneDrive gallery](https://1drv.ms/u/s!AiSfXDpbllBIk2NkrTTTNZ8DaT_4?e=fdyQPN)  
+🛠️ *(Made with Unity and 3DS Max)*  
+
+---
+
+### 👀 _**Music Projects**_
+
+🎵 [Anton Sonin – Spotify](https://open.spotify.com/artist/0iRIKBMI7fTeqFwfdlqpTh)  
+🎵 [Sonin & Tonic – Spotify](https://open.spotify.com/artist/6PQnUTlT98F722yMvW6l4m)  
+🎵 [Another alias – Spotify](https://open.spotify.com/artist/1e0xQlGTW5M0PLwkMYK6bI)
