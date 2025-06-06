@@ -76,6 +76,6 @@ LAB University of Applied Sciences, graduated in 2020
 
 ### 👀 _**Music Projects**_
 
-🎵 [Anton Sonin – Spotify](https://open.spotify.com/artist/0iRIKBMI7fTeqFwfdlqpTh)  
-🎵 [Sonin & Tonic – Spotify](https://open.spotify.com/artist/6PQnUTlT98F722yMvW6l4m)  
-🎵 [Another alias – Spotify](https://open.spotify.com/artist/1e0xQlGTW5M0PLwkMYK6bI)
+🎵 [SRH – Spotify](https://open.spotify.com/artist/0iRIKBMI7fTeqFwfdlqpTh)  
+🎵 [Sunshine Rockerz – Spotify](https://open.spotify.com/artist/6PQnUTlT98F722yMvW6l4m)  
+🎵 [Sunshine Rockerz House – Spotify](https://open.spotify.com/artist/1e0xQlGTW5M0PLwkMYK6bI)
