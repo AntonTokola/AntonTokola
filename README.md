@@ -2,8 +2,11 @@
 I'm a dedicated self-taught backend developer from Finland with a strong focus on Microsoft technologies, especially C# and .NET. 
 In my current role at Forcit Consulting Oy, I've independently developed several internal tools that have improved daily operations, despite not working officially as a developer.
 I'm passionate about building practical solutions and continuously expanding my skills. My main interests lie in backend development, cloud services (Azure), and fullstack projects using .NET and React.
+
 🧠 Constantly learning, especially in the areas of .NET backend development, JavaScript/React frontend, and Azure-based deployments.
+
 🎓 Graduated in 2020 as a Bachelor of Business Administration in Information Technology from LAB University of Applied Sciences.
+
 
 💻 Tech Stack & Skills
 Backend:
