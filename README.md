@@ -40,12 +40,9 @@ Other Skills and Hobbies:
 - Show Lighting & Visuals (DasLight, Resolume Arena)
 
 📫 Contact
-
-✉️ Email: anttu_21@hotmail.com
-
-📱 Phone: +358 44 0210715
-
-🌐 Website: https://twinstack.fi
+✉️ Email: anttu_21@hotmail.com  
+📱 Phone: +358 44 0210715  
+🌐 Website: https://twinstack.fi  
 
 
 🌱 Reference projects:
