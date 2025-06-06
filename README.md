@@ -39,7 +39,7 @@ Other Skills and Hobbies:
 - Music Production: FL Studio (released tracks via labels, supported by international DJs)
 - Show Lighting & Visuals (DasLight, Resolume Arena)
 
-📫 Contact  
+**📫 Contact**  
 ✉️ Email: anttu_21@hotmail.com  
 📱 Phone: +358 44 0210715  
 🌐 Website: https://twinstack.fi  
