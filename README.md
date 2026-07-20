@@ -44,7 +44,7 @@ LAB University of Applied Sciences, graduated in 2020
 - Docker (Node.js / .NET containers)  
 - Git, GitHub  
 
-**🛠️ Tools & Platforms**  
+**Tools & Platforms**  
 - Visual Studio / VS Code  
 - PowerShell  
 - Jira  
