@@ -25,7 +25,7 @@ LAB University of Applied Sciences, graduated in 2020
 
 ---
 
-### 💻 _**Tech Stack & Skills**_
+### _**Tech Stack & Skills**_
 
 **Backend**  
 - C# / .NET (ASP.NET Core, Entity Framework Core, LINQ, JWT, OIDC)  
